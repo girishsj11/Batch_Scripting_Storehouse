@@ -20,5 +20,11 @@ then it will opens the text files which is kept on the same path/folder where Sc
 ### ***Script4.bat***
 
    Script4 batch file will trys to jumps to different function instances based on user inputs.
+   
+   
+### ***Script5.bat***
+
+   Script5 batch file will speaks out the text which is entered in program.
+
 
 
