@@ -9,7 +9,7 @@ the windows version number.
 ### ***Script2.bat***
 
    Script2 batch file will prints the string which is in the file (*hello world!*) on the cmd , later it will opens "*https://www.google.com*" on default browser,
-then it will opens the text files which is kept on the same path/folder where Script2 batch file is stored .
+then it will opens the **text.txt** files which is kept on the same path/folder where Script2 batch file is stored .
 
 
 ### ***Script3.bat***
