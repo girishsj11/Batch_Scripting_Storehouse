@@ -25,6 +25,11 @@ then it will opens the text files which is kept on the same path/folder where Sc
 ### ***Script5.bat***
 
    Script5 batch file will speaks out the text which is entered in program.
+   
+   
+### ***Script6.bat***
+
+   Script6 batch file will speaks out the each paths in system path enviorment variable using for loop.
 
 
 
